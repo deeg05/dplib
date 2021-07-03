@@ -18,4 +18,5 @@ We're still working on it, but generally
 + Contributors get on the list above after having useful pull request approved
 + Contributor's opinion wouldn't count if he was inactive for a year
 + License change needs to be approved by 100% of contributors from the list above in period of 6 months. After that time, inactive contributor's voice would automatically be "yes".
+
 License is a subject to change, we're open for offers
